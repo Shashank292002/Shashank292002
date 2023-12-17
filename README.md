@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Shashank292002
-- 👀 I’m interested in app development and full-stack web development
-- 🌱 I’m currently graduating Engineering in computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Shashank v
 
-<!---
-Shashank292002/Shashank292002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!
+
+## About Me
+
+I'm a final year Computer Science Engineering student enthusiast based in Software Development. My interests lie in building web apps, android apps, machine learning and datascience. 
+
+## Connect with Me
+
+- 📧 Email: shashu483483@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/shashank-v-amc-/
+
+## Let's Collaborate!
+
+I'm open for collaborations, where I can showcase my major skills . If you have an exciting opportunity or just want to chat, feel free to reach out!
+
+Happy coding! 🚀
