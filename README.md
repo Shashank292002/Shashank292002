@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I'm a final year Computer Science Engineering student enthusiast based in Software Development. My interests lie in building web apps, android apps, machine learning and datascience. 
+I'm a Salesforce Developer at Intelliswift Software. My interests lie in building web apps, android apps, machine learning and datascience. 
 
 ## Connect with Me
 
